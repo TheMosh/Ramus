@@ -27,3 +27,7 @@ The Xcode project is generated from `project.yml` with [XcodeGen](https://github
 - Per-app sampling walks every process (~8 ms), so it only runs while the panel is open. Ramus refreshes every 2 seconds while the panel is open and every 5 seconds otherwise.
 
 The icon artwork is drawn by `scripts/make-icon.swift`.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
